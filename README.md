@@ -1,6 +1,6 @@
 # Real-time Sentiment Analysis for Social Media Posts
 
-This code demonstrates a simple implementation of a real-time sentiment analysis model for social media posts. It utilizes the NLTK Twitter dataset for training a Naive Bayes classifier to categorize tweets into positive, negative, or neutral sentiment categories.
+This code demonstrates a simple implementation of a real-time sentiment analysis model for social media posts. It utilizes the NLTK Twitter dataset for training, a Naive Bayes classifier to categorize tweets into positive, negative, or neutral sentiment categories.
 
 ## Requirements
 
